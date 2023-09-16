@@ -48,6 +48,8 @@ ul li{
     padding: 0 10px;
     background-color: #FFC400;
     border: none;
+    font-size: 24px;
+    color: #FFFFFF;
 }
 .search-field::placeholder{
     font-size: 24px;
